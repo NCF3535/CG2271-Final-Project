@@ -1,3 +1,13 @@
+/*
+ * CG2271 AY 24/25 Project Group 12
+ * Team Members:
+   - Edwin Hein Tun (A0273359U)
+   - Liu Jia Quan  (A0284575N)
+   - Low Jun Chen (A0277498A)
+   - Ng Chee Fong (A0273569M)
+   - Viswanathan Ravisankar (A0288001M)
+ */
+
 #include "RTE_Components.h"
 #include CMSIS_device_header   // Core device definitions for MKL25Z4
 #include "cmsis_os2.h"        // CMSIS-RTOS2 API
